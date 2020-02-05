@@ -1,7 +1,7 @@
 # qrcodephp
 Simple php Qr code ganrator
 <pre>
-include('qrcodeclass.php');<br>
+include('qrcodephp.php');<br>
 
 $content ='AMIN KHAN BANARSi INDORE banarsiamin@gmail.com ';<br>
 
